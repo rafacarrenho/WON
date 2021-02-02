@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint src --max-warnings=0"
   },
-  "husk": {
+  "husky": {
     "pre-commit":"lint-staged"
   },
   "lint-staged":{
